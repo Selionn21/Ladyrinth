@@ -59,13 +59,7 @@ public class Recollection : MonoBehaviour
         if(collision.gameObject.name == "moon" || collision.gameObject.name == "star" || collision.gameObject.name == "cloud")
         {
             CollectItem(collision.gameObject.name);
-        }
-
-        if(collision.gameObject.tag == "puzzle")
-        {
-            puzzlepanel.SetActive(true);
-        }
-        
+        }                
     }
 
   
