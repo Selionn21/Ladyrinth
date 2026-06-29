@@ -1,5 +1,10 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scenes/MovementTest.unity.meta
 guid: c1ddd4c26060b064289da1e14170c2fe
+========
+guid: 597aa49ba200709419fb6aaab1b02184
+folderAsset: yes
+>>>>>>>> 4271b6a60a8c54586b68f628ef9d9e24a118f002:Assets/Scripts.meta
 DefaultImporter:
   externalObjects: {}
   userData: 
