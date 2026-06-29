@@ -61,8 +61,13 @@ public class Recollection : MonoBehaviour
             CollectItem(collision.gameObject.name);
         }
 
-       
+        if(collision.gameObject.tag == "puzzle")
+        {
+            puzzlepanel.SetActive(true);
+        }
         
     }
+
+  
 
 }
