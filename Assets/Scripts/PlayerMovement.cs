@@ -17,7 +17,7 @@ public class PlayerMovement : MonoBehaviour
             transform.localScale = new Vector3(inputX,1,1);
 
         rb.linearVelocity = new Vector2 (inputX * speed, rb.linearVelocityY);
-        anim.SetInteger("inputX", (int)inputX);
+        anim.SetInteger("InputX", (int)inputX);
 
         if (Input.GetKeyDown(KeyCode.Space) && onGround)
             rb.AddForce(Vector2.one * jumpForce, ForceMode2D.Impulse);        
