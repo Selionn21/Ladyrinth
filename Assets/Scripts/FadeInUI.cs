@@ -9,20 +9,32 @@ public class FadeInUI : MonoBehaviour
     [SerializeField] private CanvasGroup canvasG;
     [SerializeField] private Coroutine currentCr;
 
-
+    [SerializeField] private TriggerPannel triggerPannel;
 
     private void Awake()
     {
         canvasG = GetComponent<CanvasGroup>();
     }
-
-    private void OnEnable()
+    public void FadeIn() 
     {
-        if (currentCr != null) StopCoroutine(currentCr);
-
-        currentCr = StartCoroutine(StartFade());
+        if (currentCr == null)
+            currentCr = StartCoroutine(StartFade());
+        else
+        {
+            StopAllCoroutines();
+            currentCr = StartCoroutine(StartFade());
+        }
     }
-
+    public void FadeOut()
+    {
+        if (currentCr == null)
+            currentCr = StartCoroutine(StartFadeOut());
+        else 
+        {
+            StopAllCoroutines();
+            currentCr = StartCoroutine(StartFadeOut());
+        }
+    }
     IEnumerator StartFade()
     {
         canvasG.alpha = 0f;
@@ -35,7 +47,6 @@ public class FadeInUI : MonoBehaviour
             yield return null;
         }
     }
-
     IEnumerator StartFadeOut()
     {
         float initAlpha = canvasG.alpha;
@@ -45,19 +56,6 @@ public class FadeInUI : MonoBehaviour
             time += Time.deltaTime;
             canvasG.alpha = Mathf.Clamp01(initAlpha * (1f - (time / fadeTime)));
             yield return null;
-        }
+        }        
     }
-
-
-    private void OnTriggerExit2D(Collider2D other)
-    {
-        if (other.CompareTag("Player"))
-        {
-            if (currentCr != null) StopCoroutine(currentCr);
-
-            currentCr = StartCoroutine(StartFadeOut());
-        }
-    }
-
-
 }
