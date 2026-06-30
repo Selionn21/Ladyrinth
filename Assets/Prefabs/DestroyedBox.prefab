@@ -84,7 +84,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_Sprite: {fileID: -1658382405613238988, guid: 0cd67f62c3eb7d445a5d723a69dacd42, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -132,7 +132,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 1.35, y: 1.03}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -179,7 +179,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ced9ce2c4af9044fb353c54f2d61477, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DestroyedFragments
-  time: 1
+  time: 0.5
   sprite: {fileID: 1094983967766911763}
 --- !u!1 &894414159244368472
 GameObject:
@@ -265,7 +265,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_Sprite: {fileID: -1658382405613238988, guid: 0cd67f62c3eb7d445a5d723a69dacd42, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -313,7 +313,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 1.35, y: 1.03}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -360,7 +360,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ced9ce2c4af9044fb353c54f2d61477, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DestroyedFragments
-  time: 1
+  time: 0.5
   sprite: {fileID: 6880179036482804236}
 --- !u!1 &1011583413883169609
 GameObject:
@@ -446,7 +446,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_Sprite: {fileID: -1658382405613238988, guid: 0cd67f62c3eb7d445a5d723a69dacd42, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -494,7 +494,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 1.35, y: 1.03}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -541,7 +541,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ced9ce2c4af9044fb353c54f2d61477, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DestroyedFragments
-  time: 1
+  time: 0.5
   sprite: {fileID: 2302018958064922143}
 --- !u!1 &1202001899963120421
 GameObject:
@@ -627,7 +627,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_Sprite: {fileID: -1658382405613238988, guid: 0cd67f62c3eb7d445a5d723a69dacd42, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -675,7 +675,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 1.35, y: 1.03}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -722,7 +722,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ced9ce2c4af9044fb353c54f2d61477, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DestroyedFragments
-  time: 1
+  time: 0.5
   sprite: {fileID: 9146671047904501872}
 --- !u!1 &1592117130617435569
 GameObject:
@@ -808,7 +808,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_Sprite: {fileID: -1658382405613238988, guid: 0cd67f62c3eb7d445a5d723a69dacd42, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -856,7 +856,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 1.35, y: 1.03}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -903,7 +903,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ced9ce2c4af9044fb353c54f2d61477, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DestroyedFragments
-  time: 1
+  time: 0.5
   sprite: {fileID: 3562041563102948300}
 --- !u!1 &1992957766893658823
 GameObject:
@@ -989,7 +989,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_Sprite: {fileID: -1658382405613238988, guid: 0cd67f62c3eb7d445a5d723a69dacd42, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1037,7 +1037,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 1.35, y: 1.03}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -1084,7 +1084,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ced9ce2c4af9044fb353c54f2d61477, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DestroyedFragments
-  time: 1
+  time: 0.5
   sprite: {fileID: 7708593001243488444}
 --- !u!1 &3013612280765746378
 GameObject:
@@ -1170,7 +1170,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_Sprite: {fileID: -1658382405613238988, guid: 0cd67f62c3eb7d445a5d723a69dacd42, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1218,7 +1218,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 1.35, y: 1.03}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -1265,7 +1265,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ced9ce2c4af9044fb353c54f2d61477, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DestroyedFragments
-  time: 1
+  time: 0.5
   sprite: {fileID: 2547891198930718582}
 --- !u!1 &3020376991307170133
 GameObject:
@@ -1351,7 +1351,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_Sprite: {fileID: -1658382405613238988, guid: 0cd67f62c3eb7d445a5d723a69dacd42, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1399,7 +1399,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 1.35, y: 1.03}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -1446,7 +1446,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ced9ce2c4af9044fb353c54f2d61477, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DestroyedFragments
-  time: 1
+  time: 0.5
   sprite: {fileID: 7557406237386195598}
 --- !u!1 &3035272411863733089
 GameObject:
@@ -1532,7 +1532,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_Sprite: {fileID: -1658382405613238988, guid: 0cd67f62c3eb7d445a5d723a69dacd42, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1580,7 +1580,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 1.35, y: 1.03}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -1627,7 +1627,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ced9ce2c4af9044fb353c54f2d61477, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DestroyedFragments
-  time: 1
+  time: 0.5
   sprite: {fileID: 3415444666427929346}
 --- !u!1 &3861978566402247643
 GameObject:
@@ -1713,7 +1713,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_Sprite: {fileID: -1658382405613238988, guid: 0cd67f62c3eb7d445a5d723a69dacd42, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1761,7 +1761,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 1.35, y: 1.03}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -1808,7 +1808,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ced9ce2c4af9044fb353c54f2d61477, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DestroyedFragments
-  time: 1
+  time: 0.5
   sprite: {fileID: 718345633889917883}
 --- !u!1 &4061893617335711677
 GameObject:
@@ -1894,7 +1894,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_Sprite: {fileID: -1658382405613238988, guid: 0cd67f62c3eb7d445a5d723a69dacd42, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1942,7 +1942,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 1.35, y: 1.03}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -1989,7 +1989,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ced9ce2c4af9044fb353c54f2d61477, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DestroyedFragments
-  time: 1
+  time: 0.5
   sprite: {fileID: 2685699649282886608}
 --- !u!1 &4347912970248926423
 GameObject:
@@ -2075,7 +2075,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_Sprite: {fileID: -1658382405613238988, guid: 0cd67f62c3eb7d445a5d723a69dacd42, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2123,7 +2123,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 1.35, y: 1.03}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -2170,7 +2170,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ced9ce2c4af9044fb353c54f2d61477, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DestroyedFragments
-  time: 1
+  time: 0.5
   sprite: {fileID: 115820971811033319}
 --- !u!1 &4814341887701798153
 GameObject:
@@ -2256,7 +2256,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_Sprite: {fileID: -1658382405613238988, guid: 0cd67f62c3eb7d445a5d723a69dacd42, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2304,7 +2304,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 1.35, y: 1.03}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -2351,7 +2351,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ced9ce2c4af9044fb353c54f2d61477, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DestroyedFragments
-  time: 1
+  time: 0.5
   sprite: {fileID: 2472098372104547994}
 --- !u!1 &4946608413282731605
 GameObject:
@@ -2437,7 +2437,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_Sprite: {fileID: -1658382405613238988, guid: 0cd67f62c3eb7d445a5d723a69dacd42, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2485,7 +2485,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 1.35, y: 1.03}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -2532,7 +2532,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ced9ce2c4af9044fb353c54f2d61477, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DestroyedFragments
-  time: 1
+  time: 0.5
   sprite: {fileID: 6107225875243209456}
 --- !u!1 &4957498408350863919
 GameObject:
@@ -2618,7 +2618,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_Sprite: {fileID: -1658382405613238988, guid: 0cd67f62c3eb7d445a5d723a69dacd42, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2666,7 +2666,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 1.35, y: 1.03}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -2713,7 +2713,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ced9ce2c4af9044fb353c54f2d61477, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DestroyedFragments
-  time: 1
+  time: 0.5
   sprite: {fileID: 7036651658209252183}
 --- !u!1 &5891296788345893147
 GameObject:
@@ -2799,7 +2799,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_Sprite: {fileID: -1658382405613238988, guid: 0cd67f62c3eb7d445a5d723a69dacd42, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -2847,7 +2847,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 1.35, y: 1.03}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -2894,7 +2894,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ced9ce2c4af9044fb353c54f2d61477, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DestroyedFragments
-  time: 1
+  time: 0.5
   sprite: {fileID: 3051491918685021826}
 --- !u!1 &6070512795352480369
 GameObject:
@@ -2980,7 +2980,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_Sprite: {fileID: -1658382405613238988, guid: 0cd67f62c3eb7d445a5d723a69dacd42, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -3028,7 +3028,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 1.35, y: 1.03}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -3075,7 +3075,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ced9ce2c4af9044fb353c54f2d61477, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DestroyedFragments
-  time: 1
+  time: 0.5
   sprite: {fileID: 897258887989966585}
 --- !u!1 &6219044207337926956
 GameObject:
@@ -3161,7 +3161,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_Sprite: {fileID: -1658382405613238988, guid: 0cd67f62c3eb7d445a5d723a69dacd42, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -3209,7 +3209,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 1.35, y: 1.03}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -3256,7 +3256,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ced9ce2c4af9044fb353c54f2d61477, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DestroyedFragments
-  time: 1
+  time: 0.5
   sprite: {fileID: 879255008879732734}
 --- !u!1 &6887175133372572485
 GameObject:
@@ -3342,7 +3342,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_Sprite: {fileID: -1658382405613238988, guid: 0cd67f62c3eb7d445a5d723a69dacd42, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -3390,7 +3390,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 1.35, y: 1.03}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -3437,7 +3437,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ced9ce2c4af9044fb353c54f2d61477, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DestroyedFragments
-  time: 1
+  time: 0.5
   sprite: {fileID: 2604800137011580262}
 --- !u!1 &7007160695785659271
 GameObject:
@@ -3523,7 +3523,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_Sprite: {fileID: -1658382405613238988, guid: 0cd67f62c3eb7d445a5d723a69dacd42, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -3571,7 +3571,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 1.35, y: 1.03}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -3618,7 +3618,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ced9ce2c4af9044fb353c54f2d61477, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DestroyedFragments
-  time: 1
+  time: 0.5
   sprite: {fileID: 3822147372370650573}
 --- !u!1 &7216457518651406641
 GameObject:
@@ -3704,7 +3704,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_Sprite: {fileID: -1658382405613238988, guid: 0cd67f62c3eb7d445a5d723a69dacd42, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -3752,7 +3752,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 1.35, y: 1.03}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -3799,7 +3799,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ced9ce2c4af9044fb353c54f2d61477, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DestroyedFragments
-  time: 1
+  time: 0.5
   sprite: {fileID: 1174828181406189384}
 --- !u!1 &7373376273955066055
 GameObject:
@@ -3885,7 +3885,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_Sprite: {fileID: -1658382405613238988, guid: 0cd67f62c3eb7d445a5d723a69dacd42, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -3933,7 +3933,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 1.35, y: 1.03}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -3980,7 +3980,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ced9ce2c4af9044fb353c54f2d61477, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DestroyedFragments
-  time: 1
+  time: 0.5
   sprite: {fileID: 4066647703878892008}
 --- !u!1 &7686468214059198799
 GameObject:
@@ -4066,7 +4066,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_Sprite: {fileID: -1658382405613238988, guid: 0cd67f62c3eb7d445a5d723a69dacd42, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -4114,7 +4114,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 1.35, y: 1.03}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -4161,7 +4161,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ced9ce2c4af9044fb353c54f2d61477, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DestroyedFragments
-  time: 1
+  time: 0.5
   sprite: {fileID: 8783227836080933708}
 --- !u!1 &7999706981720359860
 GameObject:
@@ -4303,7 +4303,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_Sprite: {fileID: -1658382405613238988, guid: 0cd67f62c3eb7d445a5d723a69dacd42, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -4351,7 +4351,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 1.35, y: 1.03}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -4398,7 +4398,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ced9ce2c4af9044fb353c54f2d61477, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DestroyedFragments
-  time: 1
+  time: 0.5
   sprite: {fileID: 4698926022453946591}
 --- !u!1 &8697519491000820499
 GameObject:
@@ -4484,7 +4484,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
+  m_Sprite: {fileID: -1658382405613238988, guid: 0cd67f62c3eb7d445a5d723a69dacd42, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -4532,7 +4532,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 1.35, y: 1.03}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -4579,5 +4579,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ced9ce2c4af9044fb353c54f2d61477, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DestroyedFragments
-  time: 1
+  time: 0.5
   sprite: {fileID: 5064687650479618612}
