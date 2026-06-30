@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 2af90fdc1bfb3c64f8111b1ce89a4104
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4698505143039683390
+    second: puerta_tablero_0
+  - first:
+      213: 2794225082714732887
+    second: puerta_tablero_1
+  - first:
+      213: 4979103607032574428
+    second: puerta_tablero_2
+  - first:
+      213: 3826385980875941684
+    second: puerta_tablero_3
+  - first:
+      213: -4476990718507206194
+    second: puerta_tablero_4
+  - first:
+      213: 3861346621405633650
+    second: puerta_tablero_5
+  - first:
+      213: -1611482606707148378
+    second: puerta_tablero_6
+  - first:
+      213: 80533542838891995
+    second: puerta_tablero_7
+  - first:
+      213: -739122715722894787
+    second: puerta_tablero_8
+  - first:
+      213: 1207281034755311201
+    second: puerta_tablero_9
+  - first:
+      213: 401058854095028867
+    second: puerta_tablero_10
+  - first:
+      213: 4434185755091335750
+    second: puerta_tablero_11
+  - first:
+      213: -7679619801825860690
+    second: puerta_tablero_12
+  - first:
+      213: 8419242224814528963
+    second: puerta_tablero_13
+  - first:
+      213: 6850936672013312717
+    second: puerta_tablero_14
+  - first:
+      213: -7070061708170308632
+    second: puerta_tablero_15
+  - first:
+      213: 6077725603354052805
+    second: puerta_tablero_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: puerta_tablero_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1063
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3be93aa881743140800000000000000
+      internalID: 4698505143039683390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_tablero_1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1061
+        width: 89
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759b2b588e417c620800000000000000
+      internalID: 2794225082714732887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_tablero_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 590
+        width: 28
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1fa05a954591540800000000000000
+      internalID: 4979103607032574428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_tablero_3
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 592
+        width: 280
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43725abc6cd0a1530800000000000000
+      internalID: 3826385980875941684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_tablero_4
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 592
+        width: 247
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec938a069a88ed1c0800000000000000
+      internalID: -4476990718507206194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_tablero_5
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 809
+        width: 201
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c998b3b42469530800000000000000
+      internalID: 3861346621405633650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_tablero_6
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 786
+        width: 81
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9ff717b1dd2a9e0800000000000000
+      internalID: -1611482606707148378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_tablero_7
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 790
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd57a6d94dc1e1100800000000000000
+      internalID: 80533542838891995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_tablero_8
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 791
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d323aeb5ecb1eb5f0800000000000000
+      internalID: -739122715722894787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_tablero_9
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 505
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16608a464bf11c010800000000000000
+      internalID: 1207281034755311201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_tablero_10
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 503
+        width: 89
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3820c5427e8d09500800000000000000
+      internalID: 401058854095028867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_tablero_11
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 32
+        width: 28
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64af0507374698d30800000000000000
+      internalID: 4434185755091335750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_tablero_12
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 34
+        width: 280
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea32d168a728c6590800000000000000
+      internalID: -7679619801825860690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_tablero_13
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 34
+        width: 247
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c91a08423827d470800000000000000
+      internalID: 8419242224814528963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_tablero_14
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 410
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2ec0afa9a631f50800000000000000
+      internalID: 6850936672013312717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_tablero_15
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 408
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3da60d55812ed90800000000000000
+      internalID: -7070061708170308632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_tablero_16
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 414
+        width: 87
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8073e2c3b685450800000000000000
+      internalID: 6077725603354052805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      puerta_tablero_0: 4698505143039683390
+      puerta_tablero_1: 2794225082714732887
+      puerta_tablero_10: 401058854095028867
+      puerta_tablero_11: 4434185755091335750
+      puerta_tablero_12: -7679619801825860690
+      puerta_tablero_13: 8419242224814528963
+      puerta_tablero_14: 6850936672013312717
+      puerta_tablero_15: -7070061708170308632
+      puerta_tablero_16: 6077725603354052805
+      puerta_tablero_2: 4979103607032574428
+      puerta_tablero_3: 3826385980875941684
+      puerta_tablero_4: -4476990718507206194
+      puerta_tablero_5: 3861346621405633650
+      puerta_tablero_6: -1611482606707148378
+      puerta_tablero_7: 80533542838891995
+      puerta_tablero_8: -739122715722894787
+      puerta_tablero_9: 1207281034755311201
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
