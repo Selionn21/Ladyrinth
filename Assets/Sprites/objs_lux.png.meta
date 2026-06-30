@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 0cd67f62c3eb7d445a5d723a69dacd42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5001926167941969588
+    second: objs_lux_0
+  - first:
+      213: -2594205643822976385
+    second: objs_lux_1
+  - first:
+      213: -6637119379385482639
+    second: objs_lux_2
+  - first:
+      213: -2959822541692005649
+    second: objs_lux_3
+  - first:
+      213: -2758008168336251585
+    second: objs_lux_4
+  - first:
+      213: -2248887571215616503
+    second: objs_lux_5
+  - first:
+      213: 4879603530551280797
+    second: objs_lux_6
+  - first:
+      213: -3173362716341090800
+    second: objs_lux_7
+  - first:
+      213: -4166735112967918592
+    second: objs_lux_8
+  - first:
+      213: 1970430544425152750
+    second: objs_lux_9
+  - first:
+      213: -5665894224141200514
+    second: objs_lux_10
+  - first:
+      213: -5166868774888020706
+    second: objs_lux_11
+  - first:
+      213: -5684259971277261588
+    second: objs_lux_12
+  - first:
+      213: -8448565280781632706
+    second: objs_lux_13
+  - first:
+      213: -1658382405613238988
+    second: objs_lux_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: objs_lux_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 947
+        width: 107
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49861fc6a6959ab0800000000000000
+      internalID: -5001926167941969588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objs_lux_1
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 979
+        width: 99
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f723e9d26b78ffbd0800000000000000
+      internalID: -2594205643822976385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objs_lux_2
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1003
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1720ed3e61734e3a0800000000000000
+      internalID: -6637119379385482639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objs_lux_3
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 998
+        width: 89
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2114484199ce6d0800000000000000
+      internalID: -2959822541692005649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objs_lux_4
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1007
+        width: 88
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3521b6fe2699b9d0800000000000000
+      internalID: -2758008168336251585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objs_lux_5
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 36
+        width: 456
+        height: 1063
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906f6e94ba85ac0e0800000000000000
+      internalID: -2248887571215616503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objs_lux_6
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1018
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94404bce85d7b340800000000000000
+      internalID: 4879603530551280797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objs_lux_7
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1007
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01645053c63f5f3d0800000000000000
+      internalID: -3173362716341090800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objs_lux_8
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 959
+        width: 56
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c6666bd78cc26c0800000000000000
+      internalID: -4166735112967918592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objs_lux_9
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 483
+        width: 160
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee07a0fe320685b10800000000000000
+      internalID: 1970430544425152750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objs_lux_10
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 848
+        width: 56
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73502be833be51b0800000000000000
+      internalID: -5665894224141200514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objs_lux_11
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 620
+        width: 173
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15edb779389b48b0800000000000000
+      internalID: -5166868774888020706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objs_lux_12
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 674
+        width: 71
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4fb013ca37d11b0800000000000000
+      internalID: -5684259971277261588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objs_lux_13
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 642
+        width: 164
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bff49b3aaa0ca80800000000000000
+      internalID: -8448565280781632706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: objs_lux_14
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 665
+        width: 135
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4354aa31dfd3cf8e0800000000000000
+      internalID: -1658382405613238988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      objs_lux_0: -5001926167941969588
+      objs_lux_1: -2594205643822976385
+      objs_lux_10: -5665894224141200514
+      objs_lux_11: -5166868774888020706
+      objs_lux_12: -5684259971277261588
+      objs_lux_13: -8448565280781632706
+      objs_lux_14: -1658382405613238988
+      objs_lux_2: -6637119379385482639
+      objs_lux_3: -2959822541692005649
+      objs_lux_4: -2758008168336251585
+      objs_lux_5: -2248887571215616503
+      objs_lux_6: 4879603530551280797
+      objs_lux_7: -3173362716341090800
+      objs_lux_8: -4166735112967918592
+      objs_lux_9: 1970430544425152750
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
