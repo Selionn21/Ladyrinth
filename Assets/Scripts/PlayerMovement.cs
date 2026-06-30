@@ -8,6 +8,7 @@ public class PlayerMovement : MonoBehaviour
 
     [SerializeField] private float speed;
     [SerializeField] private float jumpForce;
+    [SerializeField] private GameObject areaAttack;
     private bool onGround;
 
     void Update()
@@ -20,7 +21,21 @@ public class PlayerMovement : MonoBehaviour
         anim.SetInteger("InputX", (int)inputX);
 
         if (Input.GetKeyDown(KeyCode.Space) && onGround)
-            rb.AddForce(Vector2.one * jumpForce, ForceMode2D.Impulse);        
+            rb.AddForce(Vector2.one * jumpForce, ForceMode2D.Impulse);
+
+        if (Input.GetKeyDown(KeyCode.E)) 
+        {
+            Attack();
+        }
+    }
+    private void Attack() 
+    {
+        areaAttack.SetActive(true);
+        Invoke(nameof(DeactivateAttack), 0.4f);
+    }
+    private void DeactivateAttack() 
+    {
+        areaAttack.SetActive(false);
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
